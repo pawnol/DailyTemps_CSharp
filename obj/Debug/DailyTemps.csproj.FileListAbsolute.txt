@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\bin\Debug\DailyTemps.exe.config
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\bin\Debug\DailyTemps.exe
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\bin\Debug\DailyTemps.pdb
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\obj\Debug\DailyTemps.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\obj\Debug\DailyTemps.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\obj\Debug\DailyTemps.exe
+\\et-fileserver\staff\pawnol\Desktop\DailyTemps\obj\Debug\DailyTemps.pdb
